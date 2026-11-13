@@ -1,0 +1,5 @@
+
+NUEVOS COMANDOS
+- /nombres true | /nombres false (o solo /nombres para alternar; op) -> oculta/muestra el nombre sobre los jugadores
+- /eon <texto>   -> nube de pensamiento con el texto sobre tu cabeza + sonido "tururururu" (cualquier jugador)
+- /eon parar     -> quita la nube  (tambien funciona "/eon texto parar")

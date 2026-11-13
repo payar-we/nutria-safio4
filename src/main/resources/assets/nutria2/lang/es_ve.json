@@ -1,0 +1,16 @@
+{
+ "itemGroup.nutria2.nutria": "Nutria",
+ "item.nutria2.nutria_snowball": "Bola de nieve nutria",
+ "item.nutria2.creeper_sound": "Sonido de creeper",
+ "item.nutria2.creeper_morph": "Transformador creeper",
+ "entity.nutria2.nutria_snowball": "Bola de nieve nutria",
+ "message.nutria2.creeper_on": "Ahora eres un creeper",
+ "message.nutria2.creeper_off": "Volviste a la normalidad",
+ "commands.nutria2.nutria_on": "Todos son nutrias ahora",
+ "commands.nutria2.nutria_off": "Todos volvieron a ser humanos",
+ "commands.nutria2.vanish_on": "Vanish activado",
+ "commands.nutria2.vanish_off": "Vanish desactivado",
+ "commands.nutria2.names_on": "Nombres ocultos",
+ "commands.nutria2.names_off": "Nombres visibles",
+ "commands.nutria2.eon_stop": "Nube quitada"
+}

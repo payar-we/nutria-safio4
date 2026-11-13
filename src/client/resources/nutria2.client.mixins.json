@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "com.nutria2.client.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["PlayerRendererMixin", "NameTagMixin"],
+  "injectors": { "defaultRequire": 1 }
+}

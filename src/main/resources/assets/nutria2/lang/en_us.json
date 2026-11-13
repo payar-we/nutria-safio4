@@ -1,0 +1,16 @@
+{
+ "itemGroup.nutria2.nutria": "Nutria",
+ "item.nutria2.nutria_snowball": "Nutria Snowball",
+ "item.nutria2.creeper_sound": "Creeper Sound",
+ "item.nutria2.creeper_morph": "Creeper Transformer",
+ "entity.nutria2.nutria_snowball": "Nutria Snowball",
+ "message.nutria2.creeper_on": "You are now a creeper",
+ "message.nutria2.creeper_off": "You are back to normal",
+ "commands.nutria2.nutria_on": "Everyone is an otter now",
+ "commands.nutria2.nutria_off": "Everyone is human again",
+ "commands.nutria2.vanish_on": "Vanish enabled",
+ "commands.nutria2.vanish_off": "Vanish disabled",
+ "commands.nutria2.names_on": "Names hidden",
+ "commands.nutria2.names_off": "Names visible",
+ "commands.nutria2.eon_stop": "Cloud removed"
+}
